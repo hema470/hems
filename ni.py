@@ -1,1 +1,1 @@
-printbhgvhg
+print("hello");
